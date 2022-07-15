@@ -1,0 +1,173 @@
+.categories{
+width: 1400px;
+height: 138px;
+margin: 20px auto;
+display: flex;    
+}
+.categories-inside{
+    width: 175px;
+    height: 100%;
+}
+.categories-inside-image{
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/apple_iphone_13_pro_1655969923847.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-image-second {
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/f190ae0f-56e85bf54c090f68269967acb4fc018f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-image-third {
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/3ce275ab-d516-40ec-b5ab-db881f1b9b81.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-image-fourth {
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/03.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-image-fiveth {
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/756138066799329.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-image-sixth {
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/78d51d7e00d69bcbaededa4130088f2d_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-image-seventh {
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/339647923_w640_h640_vse-dlya-kuhni.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-image-eighth {
+    width: 80px;
+    height: 50px;
+    background-image: url(./images/5dc46a372e1234fc186ec7e7_236176900.jpg   );
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.categories-inside-text{
+    font-size: 17px;
+}
+.slide-image{
+    width: 1438px;
+    height: 300px;
+    margin: 20px auto;
+    background-image: url(./images/unnamed.png);
+    background-size: contain;
+}
+.popular{
+    font-size: 30px;
+    font-weight: 600;
+}
+.span{
+    margin: 30px 0px 0px 230px
+}
+.smartphones{
+    width: 1400px;
+    height: 499px;
+    display: flex;
+    margin: 50px auto;
+}
+.smartphones-inside{
+    width: 239px;
+    height: 498px;
+}
+.image{
+    width: 222px;
+    height: 192px;
+    background-image: url(./images/5qwqkpluv5xba3su91yujpoeqrihy6f3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+.name{
+    font-size: 20px;
+}
+.for-span{
+    margin-top: 20px;
+}
+.for-price{
+    margin-top: 40px;
+}
+.price{
+    font-size: 23px;
+    font-weight: 600;
+}
+.forSprice{
+    margin-top: 10px;
+    /* background-color: rgb(240, 33, 33);
+    border-radius: 20%; */
+}
+.Sprice{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(240, 33, 33);
+    border-radius: 20px;
+}
+.baton{
+    width: 160px;
+    height: 38px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+}
+.header{
+    width: 200vh;
+    height: 88px;
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-inside{
+    width: 1400px;
+    height: 88px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-span{
+    font-size: 28px;
+    font-weight: 900;
+    color: white;
+}
+.burger{
+    width: 142px;
+    height: 53px;
+    border: 3px solid white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.catalog{
+    font-size: 20px;
+    color: white;
+}
+input{
+    width: 600px;
+    height: 47px;
+    background-color: white;
+    border-radius: 30px;
+}
